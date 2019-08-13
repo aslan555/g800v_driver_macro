@@ -1,0 +1,9 @@
+//TrayIconWebAdvertisement
+[English]
+FontName=Tahoma
+
+lb_Title->Font->Color=RGB,64,156,206,бе╕Б
+
+lb_Title->Position=rectWH,25,15,80,16
+WebBrowser_Ad->Position=rectWH,15,40,201,61
+bt_Close->Position=rectWH,195,8,26,26
